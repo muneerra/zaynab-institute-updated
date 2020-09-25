@@ -4067,7 +4067,7 @@ ul {
 
 /* line 73, E:/172 Etrain Education/172_Etrain_Education_html/sass/_special_cource.scss */
 .special_cource .single_special_cource .special_cource_text h3:hover {
-  color: #ff663b;
+  color: #00A099;
 }
 
 @media (max-width: 576px) {
@@ -7119,8 +7119,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 106, E:/172 Etrain Education/172_Etrain_Education_html/sass/_footer.scss */
 .footer-area .footer_2 .social_icon {
-  margin-top: 27px;
+  margin-top: 25px;
 }
+.ti-facebook {
+  font-size: 18px;
+  background-color: #A3D2CA;
+  padding: 15px 15px;
+  margin: 0px 4px;
+  border: 1px solid #634e42;
+  border-radius: 25px;
+}
+
 
 /* line 108, E:/172 Etrain Education/172_Etrain_Education_html/sass/_footer.scss */
 .footer-area .footer_2 .social_icon a {
