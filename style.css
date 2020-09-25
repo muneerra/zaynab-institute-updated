@@ -7122,12 +7122,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 25px;
 }
 .ti-facebook {
-  font-size: 18px;
+  font-size: 14px;
   background-color: #A3D2CA;
-  padding: 15px 15px;
+  padding: 5px 5px;
   margin: 0px 4px;
   border: 1px solid #634e42;
-  border-radius: 25px;
+  border-radius: 15px;
 }
 
 
