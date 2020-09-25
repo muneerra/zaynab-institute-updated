@@ -4982,7 +4982,6 @@ line 145, E:/172 Etrain Education/172_Etrain_Education_html/sass/_special_cource
 .footer-area span.ti-heart {
   font-size: 12px;
   margin: 0px 2px;
-  
 }
 
 /* line 195, E:/172 Etrain Education/172_Etrain_Education_html/sass/_footer.scss */
@@ -7120,10 +7119,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 106, E:/172 Etrain Education/172_Etrain_Education_html/sass/_footer.scss */
 .footer-area .footer_2 .social_icon {
-  margin-top: 25px;
+  margin-top: 23px;
 }
 .ti-facebook {
-  font-size: 14px;
+  font-size: 11px;
   background-color: #A3D2CA;
   padding: 5px 5px;
   margin: 0px 4px;
